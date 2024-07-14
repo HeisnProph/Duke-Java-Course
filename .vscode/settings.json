@@ -1,0 +1,15 @@
+{
+    "java.project.outputPath": "java_recommendation_system/bin",
+    "java.project.referencedLibraries": [
+        "libs/*.jar",
+    ],
+    "java.project.sourcePaths": [
+        "java_recommendation_system/src",
+    ],
+    "java.format.settings.url": ".vscode/java-formatter.xml",
+    "[java]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    }
+    
+}
